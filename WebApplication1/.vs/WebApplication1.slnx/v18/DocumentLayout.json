@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\amneh.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:amneh.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\amneh.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:amneh.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:student.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|c:\\users\\user\\desktop\\projectc-\\webapplication1\\student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{C30BFAC3-6188-4C25-9383-320A21D2802B}|WebApplication1.csproj|solutionrelative:student.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Downloads\\student.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
@@ -33,11 +41,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Amneh.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\Amneh.aspx.cs",
+              "RelativeDocumentMoniker": "Amneh.aspx.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\Amneh.aspx.cs",
+              "RelativeToolTip": "Amneh.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-19T22:17:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Amneh.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\Amneh.aspx",
+              "RelativeDocumentMoniker": "Amneh.aspx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\Amneh.aspx",
+              "RelativeToolTip": "Amneh.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-10-19T22:17:05.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\login.aspx.cs",
               "RelativeDocumentMoniker": "login.aspx.cs",
@@ -50,20 +84,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "login.aspx",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\login.aspx",
               "RelativeDocumentMoniker": "login.aspx",
               "ToolTip": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\login.aspx",
               "RelativeToolTip": "login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-10-19T22:01:42.277Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "student.aspx.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\student.aspx.cs",
               "RelativeDocumentMoniker": "student.aspx.cs",
@@ -76,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
@@ -89,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "student.aspx",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\projectc-\\WebApplication1\\student.aspx",
               "RelativeDocumentMoniker": "student.aspx",
@@ -102,16 +135,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "student.json",
               "DocumentMoniker": "C:\\Users\\user\\Downloads\\student.json",
               "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\student.json",
               "ToolTip": "C:\\Users\\user\\Downloads\\student.json",
               "RelativeToolTip": "..\\..\\..\\Downloads\\student.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-19T21:55:41.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-19T21:55:41.143Z"
             }
           ]
         }
