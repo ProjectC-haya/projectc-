@@ -89,11 +89,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Amneh.aspx" />
     <Content Include="login.aspx" />
     <Content Include="student.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Amneh.aspx.cs">
+      <DependentUpon>Amneh.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Amneh.aspx.designer.cs">
+      <DependentUpon>Amneh.aspx</DependentUpon>
+    </Compile>
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
